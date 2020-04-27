@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "xenon-point-273912",
+  "private_key_id": "40b195b422ed02fbc73eef208065ff1cf628a39c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkUOPaONomJYyc\n0ETyDsPLhlDCRxcaAZfn+ug2iUE9n1U0PjbIi4cz5VSZPbMUpfFprEObCOxDhs6e\n3C3Vt+FRJIq9H7CrVD+WUpcRfJjvBVt20ZSm1H/amTi4xPnmNJ+fOnIkrN0pXYnw\n5uUyKb3v3m/PN0badD8EXkjMla8innGlb63S9fRy6Uyv0jkgykcCCn6aQ085LeUF\nwCPyoNXB1GlUyfYaVLfC//Xd045LKUG42U1R0CkK/kMAAqxp1lLqptM/VzmC0MXQ\n5Zw33FytkLrfNO/gNLh7hrMSaIcSHmu6YqxughbJlU+O5q6YuH9GxJRBcQRSGAqs\nfaYULza9AgMBAAECggEAG0lhmeyOgd2d+wXXH5jNJK9WSonFhImpNoPhqdboka1P\nuREwafJnA7hGTpQ1qWOVwRvh7o738bAUVJ8a6T5zMsfrvuOhMTC98sDHJkNeYb6h\nqkcs/W1LJHyIb2i3NyCV7SlGiASS4AU6XayyuraLaTYL5deE48nd2C9Ogwjmp/vO\n6lkbPuYEh8J56j+a/ZkQHP2XVp3jvvPo+6bvbrBPs9pbgj3jE2ZQkZEf+f8Tr9IH\nfqSpJ8iahLDZez5SWAPiHEtWuH8M5y2u6Da//38LmrqZsmOJP+n5k7cFVGN6n3Rb\nAa84zx8KMVJaQia7N95FgV6f0Ex5yM2bfI+GEBTg8QKBgQD3kiw6x+PrBXXtI1/A\nujg9lfQGffqkIOPRXmvlH5wws2yzlBtuxCfREiSskFWNMg2vVA2Ed2wGrpda5qL+\nyiovSdIBWjv5J/ufpHQ5BQcnv6wCijVxagYBGucs4Obxj9KID1l6pPPT1dofFYG+\nVxy7zMqud1CQNRv5446rcm0XOQKBgQDsFuQGQNgKcrJAjnkQkn8W3rzatlmvXYao\nxhqi8txuJCeSTaLmJP0zC5kqHi4NbGWK4xVMWA3OF1P1312RNcSM3bDyx+C3kDxp\nlqERJyFkAIh8v7Rp30WHwAq2A3XRObSLushEbCpJR/De6QtWs7ni5di3j2IyBDJ1\ni5F/cPI3pQKBgQChn6MSaOcJytHXE83yQ2BuDFR4XIxh1DsGt47W0VElli1z+1AB\nezvHSQH6SmwftrqqaMQ+Y7x5jEexh3qHvjHWF2priZ43pfummDVr+DVYpNBGBDap\nqR7sX8TmTplWwJ8gRm0THVc1R5qTynWebr6KeEMlrS1CR/nQpNfCY/yGOQKBgD6B\nRPee3VPO0ACld8n6bylX6ToigxYZtdgjMtQnZlLGwa9LXLB/5IVKMc/j0598Lloa\nCv5+ZZFFvdXfwD78tD/zRbDRWF5hEo2F8ri+2mlGdtxISPSqxxbMsklEG0I8e99u\noSz0UjG6mTv7CSR4SuOWpMzcakwBrnZOcEQEXCx9AoGALvBtjrAkmz4vK8ab433C\n5LZrBu107ZHxNltXX+k4d0sp37A5DWVmTCLdoizzRGd2OOO5Q/x2ROHLx5JospRj\n54Ds9P9x/xPEPFfj66x+UttdMXkBmRAQqmjLBVRRPXkphyCTuXi0bptwcpqUaUIm\nYql2bhUpUaILgnoEYBbAigA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firbaseauth@xenon-point-273912.iam.gserviceaccount.com",
+  "client_id": "116319548720972009679",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firbaseauth%40xenon-point-273912.iam.gserviceaccount.com"
+}
